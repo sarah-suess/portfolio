@@ -1,0 +1,134 @@
+body {
+    background-color: rgba(51, 51, 51, 0.763)
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu {
+    padding: 15px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.menu-item {
+    font-size: 16px;
+    color: black;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    text-decoration: underline;
+}
+
+#my-hobbies {
+    margin-right: auto;
+}
+
+#image1 {
+    margin-top: 60px;
+    text-align: center;
+    size: 60%
+}
+
+#intro {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.intro-to {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+#game {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.game-info {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+.pixel-images {
+    border: 3px solid white;
+}
+
+#linkto {
+    margin-top: 0px;
+    text-align: center;
+}
+
+.link-to {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(39, 158, 255);
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 480px) {
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+#game2 {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.game2-info {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+#fact {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.fact-info {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+#image2 {
+    margin-top: 60px;
+    size: 60%
+}
+
+#journey {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.journey-info {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+video {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    width: 100%;
+}
+
+.gamevideo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#designexamples {
+    margin-top: 60px;
+    size: 60%
+}
