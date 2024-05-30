@@ -1,0 +1,53 @@
+body {
+    background-color: rgba(173, 212, 232, 0.198);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu {
+    padding: 15px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.menu-item {
+    font-size: 16px;
+    color: black;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    text-decoration: underline;
+}
+
+#my-hobbies {
+    margin-right: auto;
+}
+
+#image1 {
+    margin-top: 40px;
+    text-align: center;
+    max-width: 100% ;
+    height: auto ;
+}
+
+@media only screen and (max-width: 480px) {
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+#intro {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.intro-to {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
