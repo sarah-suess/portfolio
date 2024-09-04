@@ -132,3 +132,14 @@ video {
     margin-top: 60px;
     size: 60%
 }
+
+#about {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.about-me {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(85, 164, 229);
+    font-size: 20px;
+}
