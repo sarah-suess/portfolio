@@ -44,6 +44,10 @@ body {
     font-size: 20px;
 }
 
+#my-projects {
+    margin-right: auto;
+}
+
 #linkto {
     margin-top: 0px;
     text-align: center;

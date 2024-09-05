@@ -20,6 +20,10 @@ body {
     text-decoration: none;
 }
 
+#my-projects {
+    margin-right: auto;
+}
+
 .menu-item:hover {
     text-decoration: underline;
 }

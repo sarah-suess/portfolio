@@ -77,6 +77,10 @@ body {
     }
 }
 
+#my-projects {
+    margin-right: auto;
+}
+
 #game2 {
     margin-top: 75px;
     text-align: center;
