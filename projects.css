@@ -45,7 +45,7 @@ body {
 }
 
 #game {
-    margin-top: 65px;
+    margin-top: 57px;
     text-align: center;
 }
 
@@ -135,4 +135,9 @@ video {
 #designexamples {
     margin-top: 60px;
     size: 60%
+}
+
+#apple {
+    margin-top: 114px;
+    text-align: center;
 }

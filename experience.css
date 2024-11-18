@@ -214,9 +214,9 @@ video {
     display: table;
 }
 
-body {
+/* body {
     font-family: "Open Sans";
-}
+} */
 
 #main {
     display: flex;
